@@ -1,4 +1,4 @@
-# Excel
+# Valorant (Excel)
 Excel Projects
 Many thanks to AlextheAnalyst for his step-by-step guide Youtube tutorial (https://www.youtube.com/watch?v=opJgMj1IUrc&list=PLUaB-1hjhk8Hyd5NiPQ9CND82vNodlFF5&index=7).
 
